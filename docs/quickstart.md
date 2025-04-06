@@ -3,7 +3,7 @@
 
 `get http://endpoint/index`
 
-```
+```json
 {
   "key":"value"
 }
